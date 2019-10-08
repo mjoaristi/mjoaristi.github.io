@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edoardo Serra | Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/authors/edoardo-serra/</link>
+      <atom:link href="https://mjoaristi.github.io/authors/edoardo-serra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edoardo Serra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Edoardo Serra</title>
+      <link>https://mjoaristi.github.io/authors/edoardo-serra/</link>
+    </image>
+    
+    <item>
+      <title>Inferring Bad Entities Through the Panama Papers Network.</title>
+      <link>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unknown Landscape Identification With CNN Transfer Learning.</title>
+      <link>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network Ensemble Fine-Tuning for Extended Transfer Learning.</title>
+      <link>https://mjoaristi.github.io/publication/convolutional-neural-network-ensemble-fine-tuning-for-extended-transfer-learning/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/convolutional-neural-network-ensemble-fine-tuning-for-extended-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Health-Violating Restaurants With Online Reviews.</title>
+      <link>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Impact of Social Media in Detecting Health-Violating Restaurants.</title>
+      <link>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

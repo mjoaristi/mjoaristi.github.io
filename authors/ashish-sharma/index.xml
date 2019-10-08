@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashish Sharma | Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/authors/ashish-sharma/</link>
+      <atom:link href="https://mjoaristi.github.io/authors/ashish-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashish Sharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Ashish Sharma</title>
+      <link>https://mjoaristi.github.io/authors/ashish-sharma/</link>
+    </image>
+    
+    <item>
+      <title>Unknown Landscape Identification With CNN Transfer Learning.</title>
+      <link>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/post/</link>
+      <atom:link href="https://mjoaristi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Oct 2018 11:00:05 -0600</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://mjoaristi.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Best Paper Award FOSINT-SI</title>
+      <link>https://mjoaristi.github.io/post/best_paper_award_fosint/</link>
+      <pubDate>Mon, 08 Oct 2018 11:00:05 -0600</pubDate>
+      <guid>https://mjoaristi.github.io/post/best_paper_award_fosint/</guid>
+      <description>&lt;p&gt;Mikel won the Best Paper Award at the International Symposium on Foundations of Open Source Intelligence and Security Informatics (FOSINT-SI 2018) in conjunction with ASONAM 2018. Joint work with Edoardo Serra and Francesca Spezzano on “Inferring Bad Entities through the Panama Papers Network.”
+&lt;a href=&#34;https://www.boisestate.edu/news/2018/09/10/edoardo-serra-francesca-spezzano-and-mikel-joaristi/&#34;&gt;Read more.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

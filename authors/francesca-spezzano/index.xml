@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Spezzano | Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/authors/francesca-spezzano/</link>
+      <atom:link href="https://mjoaristi.github.io/authors/francesca-spezzano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesca Spezzano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Francesca Spezzano</title>
+      <link>https://mjoaristi.github.io/authors/francesca-spezzano/</link>
+    </image>
+    
+    <item>
+      <title>Inferring Bad Entities Through the Panama Papers Network.</title>
+      <link>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Health-Violating Restaurants With Online Reviews.</title>
+      <link>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Impact of Social Media in Detecting Health-Violating Restaurants.</title>
+      <link>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

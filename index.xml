@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/</link>
+      <atom:link href="https://mjoaristi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mikel Joaristi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Oct 2018 11:00:05 -0600</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Mikel Joaristi</title>
+      <link>https://mjoaristi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Best Paper Award FOSINT-SI</title>
+      <link>https://mjoaristi.github.io/post/best_paper_award_fosint/</link>
+      <pubDate>Mon, 08 Oct 2018 11:00:05 -0600</pubDate>
+      <guid>https://mjoaristi.github.io/post/best_paper_award_fosint/</guid>
+      <description>&lt;p&gt;Mikel won the Best Paper Award at the International Symposium on Foundations of Open Source Intelligence and Security Informatics (FOSINT-SI 2018) in conjunction with ASONAM 2018. Joint work with Edoardo Serra and Francesca Spezzano on “Inferring Bad Entities through the Panama Papers Network.”
+&lt;a href=&#34;https://www.boisestate.edu/news/2018/09/10/edoardo-serra-francesca-spezzano-and-mikel-joaristi/&#34;&gt;Read more.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring Bad Entities Through the Panama Papers Network.</title>
+      <link>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/inferring-bad-entities-through-the-panama-papers-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unknown Landscape Identification With CNN Transfer Learning.</title>
+      <link>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/unknown-landscape-identification-with-cnn-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network Ensemble Fine-Tuning for Extended Transfer Learning.</title>
+      <link>https://mjoaristi.github.io/publication/convolutional-neural-network-ensemble-fine-tuning-for-extended-transfer-learning/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/convolutional-neural-network-ensemble-fine-tuning-for-extended-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Health-Violating Restaurants With Online Reviews.</title>
+      <link>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/identifying-health-violating-restaurants-with-online-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Impact of Social Media in Detecting Health-Violating Restaurants.</title>
+      <link>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/publication/evaluating-the-impact-of-social-media-in-detecting-health-violating-restaurants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

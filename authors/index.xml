@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Mikel Joaristi</title>
+    <link>https://mjoaristi.github.io/authors/</link>
+      <atom:link href="https://mjoaristi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mjoaristi.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://mjoaristi.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Ashish Sharma</title>
+      <link>https://mjoaristi.github.io/authors/ashish-sharma/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/ashish-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo Serra</title>
+      <link>https://mjoaristi.github.io/authors/edoardo-serra/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/edoardo-serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Spezzano</title>
+      <link>https://mjoaristi.github.io/authors/francesca-spezzano/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/francesca-spezzano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikel Joaristi</title>
+      <link>https://mjoaristi.github.io/authors/mikel-joaristi/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/mikel-joaristi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxana Korzh</title>
+      <link>https://mjoaristi.github.io/authors/oxana-korzh/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/oxana-korzh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mjoaristi.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mjoaristi.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Mikel is a motivated Ph.D. candidate in Computing – Computer Science track (expected Fall 2020) with a special interest in Representation Learning, Deep Learning, and Data Visualization. Ample experience working with all types of complex data and data processing methodology and pipelines, including, Image Processing, Natural Language Processing, Text Mining, Graph Mining, Stereoscopic Data, 3D Point Clouds. Experience in both academia and industry applied research. Worked in a wide range of real-world projects, from Augmented Reality and Autonomous Drone Technology to Precision Agriculture. Publications in top-tier conferences and journals, including a Best Paper Award in FOSINT-SI 2018 in conjunction with ASONAM 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
